@@ -23,4 +23,4 @@ def countdown_with_sleep(number)
   end
 end
 
-countdown
+countdown_with_sleep
